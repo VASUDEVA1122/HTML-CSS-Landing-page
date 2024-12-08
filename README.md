@@ -1,4 +1,4 @@
-14. Zerodha Landing Page (Part 2)
+Zerodha Landing Page (Part 2)
 <br></br>
 In this project, I continued building a Zerodha-inspired landing page and explored key CSS styling techniques:
 
