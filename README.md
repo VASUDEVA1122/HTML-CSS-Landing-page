@@ -81,3 +81,7 @@ A hero section featuring an image, title ("Invest in everything"), and a subtitl
 A call-to-action button: "Sign up for free."
 <br></br>
 Feel free to check out the code and suggest improvements! 🚀
+
+<br></br>
+Thanks to Harkirat Singh for his guidance.
+
